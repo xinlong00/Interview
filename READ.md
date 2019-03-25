@@ -1,4 +1,6 @@
-**Linux查询端口号：**
+![优秀的Bug总要优秀的人来写](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1821742704,3547241851&fm=27&gp=0.jpg)
+
+Linux查询端口号：**
 
 1、lsof -i:端口号
 
